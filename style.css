@@ -1,8 +1,32 @@
 body {
-    background-color: aqua;
-    color: antiquewhite;
-    font-size: 25px;
+    background-color: rgb(224, 178, 132);
+    color: black;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.titles {
+
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 30;
 
 }
-.pop {
-    color: brown;
+.Subs {
+    
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 30;
+
+}
+
+.seperate {
+    margin-bottom: 30;
+}
+
+#a55 { 
+    
+}
