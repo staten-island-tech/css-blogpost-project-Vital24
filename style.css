@@ -14,13 +14,13 @@ body {
 .Subs {
     
     font-size: 50px;
-    margin-top: 30;
+    margin-top: 20;
     
 
 }
 
-.seperate {
-    margin-bottom: 30;
+.seperate { 
+    margin: 20 auto;
 }
 
 #a55 { 
@@ -28,3 +28,34 @@ body {
     font-size: 20px;
 
 }
+
+p { 
+    border-style: solid;
+    background-color: rgb(228, 193, 142);
+}
+
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+    position: sticky;
+    top: 6;
+  } 
+.menu2 {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 12px 0;
+    position: sticky;
+    top: 12;
+  } 
+
+  .menu3 {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+
+    position: sticky;
+    top: 12;
+  } 
